@@ -1,0 +1,30 @@
+.App{
+    background: url('../../images/login-background.jpg');
+    background-size:  100vw 100vh;
+    height: 100vh;
+}
+.logo{
+    background: url('../../images/logo.jpg') no-repeat;
+    background-size: 26vw 30vh;
+    height: 30vh;
+}
+.loginBox{
+    height: 16vh;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.loginBox span{
+    color: #fff;
+}
+.loginBtn{
+    height: 6vh;
+    width: 15vw;
+    line-height: 6vh;
+    margin-top: 2vh;
+    background: rgb(255,140,1);
+    border-color:rgb(255,140,1);
+}
